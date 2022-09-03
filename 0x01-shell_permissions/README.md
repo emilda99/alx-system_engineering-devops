@@ -1,1 +1,1 @@
-Write a script that sets the permission
+Write a script that sets the mode of the file
