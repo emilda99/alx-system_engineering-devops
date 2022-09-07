@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories
+Write a command that finds all empty files and directories in the current directory and all sub-directories
