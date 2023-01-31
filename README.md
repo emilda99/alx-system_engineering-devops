@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output
+hello,in this project we are playing around with regular expressions.
